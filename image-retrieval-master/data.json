@@ -1,0 +1,122 @@
+[
+    {
+        "filename": "static/img/ukbench00007.jpg",
+        "uncertainty": "0.0"
+    },
+    {
+        "filename": "static/img/ukbench00005.jpg",
+        "uncertainty": "0.49600437"
+    },
+    {
+        "filename": "static/img/ukbench00006.jpg",
+        "uncertainty": "0.5950791"
+    },
+    {
+        "filename": "static/img/ukbench00004.jpg",
+        "uncertainty": "0.6230482"
+    },
+    {
+        "filename": "static/img/ukbench00030.jpg",
+        "uncertainty": "1.1087239"
+    },
+    {
+        "filename": "static/img/ukbench00002.jpg",
+        "uncertainty": "1.1099167"
+    },
+    {
+        "filename": "static/img/ukbench00033.jpg",
+        "uncertainty": "1.1199343"
+    },
+    {
+        "filename": "static/img/ukbench00003.jpg",
+        "uncertainty": "1.12229"
+    },
+    {
+        "filename": "static/img/ukbench00001.jpg",
+        "uncertainty": "1.1334844"
+    },
+    {
+        "filename": "static/img/ukbench00034.jpg",
+        "uncertainty": "1.1336148"
+    },
+    {
+        "filename": "static/img/ukbench00019.jpg",
+        "uncertainty": "1.1345048"
+    },
+    {
+        "filename": "static/img/ukbench00000.jpg",
+        "uncertainty": "1.1376574"
+    },
+    {
+        "filename": "static/img/ukbench00031.jpg",
+        "uncertainty": "1.1399595"
+    },
+    {
+        "filename": "static/img/ukbench00027.jpg",
+        "uncertainty": "1.1569719"
+    },
+    {
+        "filename": "static/img/ukbench00017.jpg",
+        "uncertainty": "1.1592077"
+    },
+    {
+        "filename": "static/img/ukbench00029.jpg",
+        "uncertainty": "1.1634367"
+    },
+    {
+        "filename": "static/img/ukbench00012.jpg",
+        "uncertainty": "1.166017"
+    },
+    {
+        "filename": "static/img/ukbench00021.jpg",
+        "uncertainty": "1.1666551"
+    },
+    {
+        "filename": "static/img/ukbench00028.jpg",
+        "uncertainty": "1.171096"
+    },
+    {
+        "filename": "static/img/ukbench00014.jpg",
+        "uncertainty": "1.1742332"
+    },
+    {
+        "filename": "static/img/ukbench00016.jpg",
+        "uncertainty": "1.1765928"
+    },
+    {
+        "filename": "static/img/ukbench00018.jpg",
+        "uncertainty": "1.1793591"
+    },
+    {
+        "filename": "static/img/ukbench00023.jpg",
+        "uncertainty": "1.1801475"
+    },
+    {
+        "filename": "static/img/ukbench00025.jpg",
+        "uncertainty": "1.1861811"
+    },
+    {
+        "filename": "static/img/ukbench00026.jpg",
+        "uncertainty": "1.1875118"
+    },
+    {
+        "filename": "static/img/ukbench00045.jpg",
+        "uncertainty": "1.1900467"
+    },
+    {
+        "filename": "static/img/ukbench00015.jpg",
+        "uncertainty": "1.1974027"
+    },
+    {
+        "filename": "static/img/ukbench00024.jpg",
+        "uncertainty": "1.199495"
+    },
+    {
+        "filename": "static/img/ukbench00032.jpg",
+        "uncertainty": "1.2013227"
+    },
+    {
+        "filename": "static/img/ukbench00035.jpg",
+        "uncertainty": "1.2041446"
+    }
+]
