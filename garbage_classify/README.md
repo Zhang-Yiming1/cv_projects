@@ -94,7 +94,11 @@ txt文件中有图像的名称和标签。
 
 ### BaseLine改进
 
-请听下回分解～
+1，模型：
+
+[安装Efficientnet](https://blog.csdn.net/qq_38410428/article/details/95074279)  accuracy:84.58252716064453
+
+2，数据集增加（train_data）accuracy:87.97119140625
 
 
 
