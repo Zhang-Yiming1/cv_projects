@@ -96,9 +96,13 @@ txt文件中有图像的名称和标签。
 
 1，模型：
 
-[安装Efficientnet](https://blog.csdn.net/qq_38410428/article/details/95074279)  accuracy:84.58252716064453
+[安装Efficientnet](https://blog.csdn.net/qq_38410428/article/details/95074279)  
+accuracy:84.58252716064453
 
-2，数据集增加（train_data）accuracy:87.97119140625
+2，数据集扩增（train_data文件夹）
+下载地址：
+百度网盘链接：https://pan.baidu.com/s/1SulD2MqZx_U891JXeI2-2g 提取码：epgs
+accuracy:87.97119140625
 
 
 
